@@ -7,6 +7,10 @@ This Power BI project presents a complete view of e-commerce performance through
 
 The dashboard was built to simplify complex e-commerce data and make it easier to understand business trends at a glance. It highlights top-performing countries, profitable categories, shipping preferences, and discount patterns across different markets.
 
+* Dashboard view:
+* 
+  https://github.com/ppoojitha76/Ecommerce-Dashboard/blob/master/Ecommerce-report.png
+
 * Key Insights:
 
 The United States leads in total sales, followed by Australia and France.
