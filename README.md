@@ -1,42 +1,98 @@
-# Ecommerce-Dashboard
-E-Commerce Sales Performance Dashboard (Power BI)
+Ecommerce Sales Performance Dashboard (Power BI)
 
-This Power BI project presents a complete view of e-commerce performance through interactive visualizations and insights. The dashboard helps analyze key business metrics like total sales, profit, quantity, and shipping costs across multiple regions and product categories.
+This Power BI dashboard analyzes e-commerce sales performance using the public Superstore dataset. It shows how revenue, orders, and profitability changed between 2011 and 2014 across product sub-categories and customer segments. The goal is to understand demand patterns, top-performing products, and year-over-year growth to support business decisions.
 
-* Project Overview:
+Business Objective
 
-The dashboard was built to simplify complex e-commerce data and make it easier to understand business trends at a glance. It highlights top-performing countries, profitable categories, shipping preferences, and discount patterns across different markets.
+Enable stakeholders to:
 
-* Dashboard view:
-* 
-  https://github.com/ppoojitha76/Ecommerce-Dashboard/blob/master/Ecommerce-report.png
+Track revenue and profitability performance
 
-* Key Insights:
+Identify profitable product categories
 
-The United States leads in total sales, followed by Australia and France.
+Understand customer purchasing behavior
 
-Technology products generate the highest revenue compared to Furniture and Office Supplies.
+Analyze time-based demand trends
 
-The Standard Class shipping mode is most popular among customers.
+Monitor efficiency metrics such as AOV and margin
 
-Markets like APAC and LATAM show higher discounts, indicating strong promotional strategies.
+Key Metrics (KPIs)
 
-* Objective:
+Total Sales
 
-To visualize e-commerce data in a dynamic and interactive way using Power BI, helping businesses make data-driven decisions by tracking sales performance, profit margins, and shipping efficiency.
+Total Orders
 
-* Tools Used:
+Total Quantity Sold
 
-Power BI – Dashboard creation and data visualization
+Total Profit
 
-Excel / CSV – Data source
+Profit Margin (%)
 
-* Project Features:
+Average Order Value (AOV)
 
-Interactive filters by Category and Market
+Dashboard Features
 
-KPI cards for Sales, Profit, Quantity, and Shipping Cost
+KPI summary for quick performance scan
 
-Visual breakdowns by Country, State, Category, and Ship Mode
+Monthly profit trend analysis
 
-Clear storytelling with professional design and color theme
+Year-over-year sales trend
+
+Top 10 products by profit contribution
+
+Segment and sub-category sales distribution
+
+Year filter for interactive exploration
+
+Clean and consistent visual design suitable for portfolio use
+
+Key Insights (2011–2014)
+
+Consumer segment generated ~51% of revenue
+
+Chairs and Storage led profit contribution
+
+Profit margin remained in the 10–12% range
+
+AOV stayed near ~$500 per order
+
+Order volume increased year-over-year, indicating demand growth
+
+Dataset Information
+
+Source: Superstore (Public)
+
+Region: United States
+
+Period: 2011–2014
+
+Currency: USD
+
+Type: Transactional e-commerce sales
+
+Dataset fields include order details, sales, profit, quantity, ship mode, category, and segment.
+
+Tools and Techniques
+
+Tools:
+
+Power BI (data modeling, DAX, visualization)
+
+Excel/CSV (raw data)
+
+Techniques:
+
+Time-series analysis
+
+Contribution analysis
+
+KPI benchmarking
+
+Margin analysis
+
+Calendar table modeling
+
+
+
+
+
